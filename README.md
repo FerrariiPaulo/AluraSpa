@@ -1,0 +1,1 @@
+Criando um projeto que utiliza Sass para a prática desse tipo de linguagem.
